@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412971709342",
+    "project_id": "compound-b1b69",
+    "storage_bucket": "compound-b1b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412971709342:android:cb18dbf99abe8716f4dc8f",
+        "android_client_info": {
+          "package_name": "com.example.fire_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWj-Zxu8bMY4x3yQ-NSqXHcEHPf2ssSsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
